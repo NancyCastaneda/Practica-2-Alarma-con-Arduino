@@ -10,7 +10,7 @@ Costo: Gratuito por fines educativos
 
 Para la construcción de la práctica se hizo uso de software libre, tales como:
 
-* Ubuntu Ubuntu 16.04 LTS (S.O).
+* Ubuntu 16.04 LTS (S.O).
 
 * Frintzing 0.9.3 (Para la construcción del diagrama).
 
